@@ -3,6 +3,7 @@
 .twitter-typeahead {
   display: block !important;
   position: relative;
+  margin-top: 0.5rem;
 
   &::before {
     content: "\f16c";
